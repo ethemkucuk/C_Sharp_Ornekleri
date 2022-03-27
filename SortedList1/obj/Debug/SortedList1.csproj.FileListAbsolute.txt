@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\obj\Debug\SortedList1.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\obj\Debug\SortedList1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\obj\Debug\SortedList1.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\obj\Debug\SortedList1.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\obj\Debug\SortedList1.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\obj\Debug\SortedList1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\bin\Debug\SortedList1.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\bin\Debug\SortedList1.exe
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\bin\Debug\SortedList1.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\obj\Debug\SortedList1.exe
+C:\Users\Monster\Desktop\C# Örneklerim\SortedList1\obj\Debug\SortedList1.pdb

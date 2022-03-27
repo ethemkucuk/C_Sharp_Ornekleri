@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\bin\Debug\Alarm_Yapımı.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\bin\Debug\Alarm_Yapımı.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\bin\Debug\Alarm_Yapımı.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\obj\Debug\Alarm_Yapımı.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\obj\Debug\Alarm_Yapımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\obj\Debug\Alarm_Yapımı.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\obj\Debug\Alarm_Yapımı.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\obj\Debug\Alarm_Yapımı.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\obj\Debug\Alarm_Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\obj\Debug\Alarm_Yapımı.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\obj\Debug\Alarm_Yapımı.pdb

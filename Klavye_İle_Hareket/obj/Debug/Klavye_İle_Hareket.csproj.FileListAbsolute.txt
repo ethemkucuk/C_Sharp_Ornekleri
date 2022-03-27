@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\bin\Debug\Klavye_İle_Hareket.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\bin\Debug\Klavye_İle_Hareket.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\bin\Debug\Klavye_İle_Hareket.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\obj\Debug\Klavye_İle_Hareket.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\obj\Debug\Klavye_İle_Hareket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\obj\Debug\Klavye_İle_Hareket.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\obj\Debug\Klavye_İle_Hareket.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\obj\Debug\Klavye_İle_Hareket.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\obj\Debug\Klavye_İle_Hareket.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\obj\Debug\Klavye_İle_Hareket.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Klavye_İle_Hareket\obj\Debug\Klavye_İle_Hareket.pdb

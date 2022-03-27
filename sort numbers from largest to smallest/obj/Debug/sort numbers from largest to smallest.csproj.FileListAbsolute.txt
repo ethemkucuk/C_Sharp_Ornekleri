@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\bin\Debug\sort numbers from largest to smallest.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\bin\Debug\sort numbers from largest to smallest.exe
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\bin\Debug\sort numbers from largest to smallest.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\obj\Debug\sort numbers from largest to smallest.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\obj\Debug\sort numbers from largest to smallest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\obj\Debug\sort_numbers_from_largest_to_smallest.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\obj\Debug\sort_numbers_from_largest_to_smallest.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\obj\Debug\sort numbers from largest to smallest.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\obj\Debug\sort numbers from largest to smallest.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\obj\Debug\sort numbers from largest to smallest.exe
+C:\Users\Monster\Desktop\C# Örneklerim\sort numbers from largest to smallest\obj\Debug\sort numbers from largest to smallest.pdb

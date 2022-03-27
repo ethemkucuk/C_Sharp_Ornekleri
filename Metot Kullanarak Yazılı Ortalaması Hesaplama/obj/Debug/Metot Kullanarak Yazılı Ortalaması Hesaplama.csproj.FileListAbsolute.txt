@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\bin\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\bin\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\bin\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\obj\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\obj\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\obj\Debug\Metot_Kullanarak_Yazılı_Ortalaması_Hesaplama.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\obj\Debug\Metot_Kullanarak_Yazılı_Ortalaması_Hesaplama.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\obj\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\obj\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\obj\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Metot Kullanarak Yazılı Ortalaması Hesaplama\obj\Debug\Metot Kullanarak Yazılı Ortalaması Hesaplama.pdb

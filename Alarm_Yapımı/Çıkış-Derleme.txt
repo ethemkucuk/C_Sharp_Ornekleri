@@ -1,0 +1,4 @@
+﻿Derleme başladı...
+1>------ Derleme başladı: Proje: Alarm_Yapımı, Yapılandırma: Debug Any CPU ------
+1>  Alarm_Yapımı -> C:\Users\Monster\Desktop\C# Örneklerim\Alarm_Yapımı\bin\Debug\Alarm_Yapımı.exe
+========== Oluşturma: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========

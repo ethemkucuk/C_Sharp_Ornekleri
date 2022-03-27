@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\bin\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\bin\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\bin\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\obj\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\obj\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\obj\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\obj\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\obj\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\obj\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\obj\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Dikdörtgen_Alan_Cevre_Hesaplama\obj\Debug\Dikdörtgen_Alan_Cevre_Hesaplama.pdb

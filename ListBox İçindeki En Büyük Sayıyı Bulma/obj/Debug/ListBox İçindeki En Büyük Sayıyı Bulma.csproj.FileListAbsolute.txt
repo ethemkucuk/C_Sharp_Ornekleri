@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\obj\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\obj\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\obj\Debug\ListBox_İçindeki_En_Büyük_Sayıyı_Bulma.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\obj\Debug\ListBox_İçindeki_En_Büyük_Sayıyı_Bulma.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\obj\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\obj\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\bin\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\bin\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.exe
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\bin\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\obj\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.exe
+C:\Users\Monster\Desktop\C# Örneklerim\ListBox İçindeki En Büyük Sayıyı Bulma\obj\Debug\ListBox İçindeki En Büyük Sayıyı Bulma.pdb

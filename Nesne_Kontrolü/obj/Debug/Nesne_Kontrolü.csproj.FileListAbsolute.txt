@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\bin\Debug\Nesne_Kontrolü.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\bin\Debug\Nesne_Kontrolü.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\bin\Debug\Nesne_Kontrolü.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\obj\Debug\Nesne_Kontrolü.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\obj\Debug\Nesne_Kontrolü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\obj\Debug\Nesne_Kontrolü.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\obj\Debug\Nesne_Kontrolü.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\obj\Debug\Nesne_Kontrolü.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\obj\Debug\Nesne_Kontrolü.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\obj\Debug\Nesne_Kontrolü.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Nesne_Kontrolü\obj\Debug\Nesne_Kontrolü.pdb

@@ -1,0 +1,6 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Alt_Küme_Sayısı\obj\Debug\Alt_Küme_Sayısı.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Alt_Küme_Sayısı\obj\Debug\Alt_Küme_Sayısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Alt_Küme_Sayısı\obj\Debug\Alt_Küme_Sayısı.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Alt_Küme_Sayısı\obj\Debug\Alt_Küme_Sayısı.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Alt_Küme_Sayısı\obj\Debug\Alt_Küme_Sayısı.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Alt_Küme_Sayısı\obj\Debug\Alt_Küme_Sayısı.csproj.CoreCompileInputs.cache

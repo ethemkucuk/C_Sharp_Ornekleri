@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\bin\Debug\İki_Sayiyi_Toplama.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\bin\Debug\İki_Sayiyi_Toplama.exe
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\bin\Debug\İki_Sayiyi_Toplama.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\obj\Debug\İki_Sayiyi_Toplama.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\obj\Debug\İki_Sayiyi_Toplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\obj\Debug\İki_Sayiyi_Toplama.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\obj\Debug\İki_Sayiyi_Toplama.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\obj\Debug\İki_Sayiyi_Toplama.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\obj\Debug\İki_Sayiyi_Toplama.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\obj\Debug\İki_Sayiyi_Toplama.exe
+C:\Users\Monster\Desktop\C# Örneklerim\İki_Sayiyi_Toplama\obj\Debug\İki_Sayiyi_Toplama.pdb
